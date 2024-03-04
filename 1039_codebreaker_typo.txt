@@ -1,0 +1,12 @@
+
+abcde
+baced
+No
+
+abcde
+abcde
+Yes
+
+aaaa
+aaab
+No
